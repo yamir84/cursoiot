@@ -1,70 +1,31 @@
 ###################
-What is CodeIgniter
+Curso IOT con ESP32
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Web Cpmleta del Curso IOT con ESP32, desarrollado con CodeIgniter PHP, MQTT, JavaScript, entre otras herramientas, se aprendió desde montar un servidor en la nube de amazon así como la configuración y administración del mismo con el Panel de control de Vesta.
 
-*******************
-Release Information
-*******************
+- Instalación y configuración del Broker MQTT - EMQX en Linux y Windows.
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Demo Online: https://freeiot.tk
+Correo: admin@freeiot.tk
+Contraseña: demo
 
-**************************
-Changelog and New Features
-**************************
+Curso IOT con ESP32 en Youtube.
+https://cutt.ly/1upZV6W
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Página Oficial del Curso, ve para más información.
+https://freeiot.tk/downloads
 
-*******************
-Server Requirements
-*******************
+ 🔔 Suscribirse al canal para compartir mas videos y aumentar la comunidad de CubaElectronica, ahora con nueva imagen.
 
-PHP version 5.6 or newer is recommended.
+🔴 Visítenos en Facebook: 👉 https://www.facebook.com/CubaElectronica
+🔴 Visítenos en Blogger: 👉  http://cubaelectronica.blogspot.com/
+🔴 Visítenos en Twitter: 👉  https://twitter.com/CubaElectronic
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+Comenta para mas información y no olvide suscribirse al Canal y compartir para que sus amigos les llegue también el fabuloso mundo del conocimiento.
 
-************
-Installation
-************
+Gracias!!!! ✌🏻✌🏻✌🏻✌🏻✌🏻✌🏻✌🏻
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+Licencia: MIT
 
-*******
-License
-*******
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
