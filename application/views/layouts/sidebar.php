@@ -66,9 +66,35 @@
         </li>
         <li class="nav-item">
           <a href="<?php echo base_url(); ?>data/graficas" class="nav-link">
-            <i class="fa fa-chart-bar"></i>
+            <i class="fa fa-chart-area"></i>
             <p>
-              Graficas
+              Gráficas
+            </p>
+          </a>
+        </li>
+        <li class="nav-header"> <- DESCARGAS - CURSOIOT -></li>
+        <li class="nav-item">
+          <a href="https://github.com/yamir84/cursoiot" target="_blank" class="nav-link">
+            <i class="fab fa-github"></i>
+            <p>
+              CursoIOT GitHub
+            </p>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="https://github.com/yamir84/MQTT-con-ESP32-y-Servidor-VPS-EMQX" target="_blank" class="nav-link">
+            <i class="fab fa-github"></i>
+            <p>
+              ESP32 GitHub
+            </p>
+          </a>
+        </li>
+        <li class="nav-header"> <- CHAT IOT CUBAELECTRONICA-></li>
+        <li class="nav-item">
+          <a href="https://chat.whatsapp.com/FMO60GbkRAJAGrNb8kNQUn" target="_blank" class="nav-link">
+            <i class="fab fa-whatsapp"></i>
+            <p>
+              Grupo WhatsApp
             </p>
           </a>
         </li>
