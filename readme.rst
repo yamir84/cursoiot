@@ -13,10 +13,7 @@ Contraseña: demo
 Curso IOT con ESP32 en Youtube.
 https://cutt.ly/1upZV6W
 
-Página Oficial del Curso, ve para más información.
-https://freeiot.tk/downloads
-
- 🔔 Suscribirse al canal para compartir mas videos y aumentar la comunidad de CubaElectronica, ahora con nueva imagen.
+🔔 Suscribirse al canal para compartir mas videos y aumentar la comunidad de CubaElectronica, ahora con nueva imagen.
 
 🔴 Visítenos en Facebook: 👉 https://www.facebook.com/CubaElectronica
 🔴 Visítenos en Blogger: 👉  http://cubaelectronica.blogspot.com/
