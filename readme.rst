@@ -6,7 +6,7 @@ Web Cpmleta del Curso IOT con ESP32, desarrollado con CodeIgniter PHP, MQTT, Jav
 
 - Instalación y configuración del Broker MQTT - EMQX en Linux y Windows.
 
-Demo Online: https://freeiot.tk
+Demo Online: https://cubaelectronica.com/cursoiot
 Correo: admin@freeiot.tk
 Contraseña: demo
 
